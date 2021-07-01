@@ -17,7 +17,7 @@
     <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" height="30" width="40"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="30" width="40"/> </a>
     <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" height="30" width="40"/> </a>
-    <img align="right" alt="Gus-naruto" height="140" width="auto" src="./.github/img/Gus-naruto.gif">
+    <img align="right" alt="Gus-naruto" height="130em" width="auto" src="./.github/img/Gus-naruto.gif">
   </p>
 </div>
 
