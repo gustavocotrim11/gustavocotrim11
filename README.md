@@ -1,11 +1,6 @@
 ### Hi 👋! I'm Gustavo Cotrim
 
-<p>I have recently graduated in Electrical and Electronic Engineering and had opportunities to gain experience as an Apprentice SENAI - Maintenance Electrician at Toyota do Brasil Ltda. and in Maintenance Planning and Control as an Engineering intern at BENTELER Componentes Automotivos Ltda., I am also an enthusiast in the area of continuous improvement, certified as a Lean Six Sigma Black Belt.
-
-In the last year of graduation, I had some Software Engineering disciplines, which made me interested in the area and to do my Undergraduate thesis using C++ and Microcontroller to make an embedded electronics module together with my group. After my graduation, I looked for more on the Development area and the universe of opportunities and the potential to transform the lives of people and businesses through Technology was evident, therefore, I looked for opportunities to carry out courses that confirmed my passion.
-
-Currently, I am looking for an opportunity, in a collaborative environment, where I can develop, learn and share with the team, and generate value through Technology, in addition, I have been entrusting my journey to Rocketseat studying ReactJS, and Santander Coders Web Full Stack - Let's Code studying Angular and Java.
-
+<p>
 #NeverStopLearning
 </p>
 
